@@ -60,3 +60,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * Made analytics.js script load async
 * Embedded print stylesheet into screen stylesheet
 * Removed google font
+* Inline style.css
+* Refactor pizza scroll position movement
+* Refactor pizza resizing to not trigger forced layout
