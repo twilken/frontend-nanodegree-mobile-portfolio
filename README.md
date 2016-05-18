@@ -58,3 +58,5 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * Made pizzeria image smaller
 * Made analytics.js script load async
+* Embedded print stylesheet into screen stylesheet
+* Removed google font
